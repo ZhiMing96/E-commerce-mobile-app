@@ -1,7 +1,7 @@
 # zhcq-co
 A fashion ecommerce platform
 
-### IS3106 Group Project (Group 11)
+### IS3106 Group Project
 
 ## Instructions:
 - Please run the Ionic application in mobile mode on the browser for a better experience
